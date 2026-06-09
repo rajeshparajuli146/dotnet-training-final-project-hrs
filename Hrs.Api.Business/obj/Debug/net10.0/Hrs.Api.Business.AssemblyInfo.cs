@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hrs.Api.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6203a92d84d8d2553fcbf59ed6cca1f798aa23")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hrs.Api.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hrs.Api.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

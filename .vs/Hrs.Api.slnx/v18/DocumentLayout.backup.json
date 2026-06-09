@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83CAE5F6-0FAC-4991-ADF7-0C68E1C1347C}|Hrs.Api\\Hrs.Api.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83CAE5F6-0FAC-4991-ADF7-0C68E1C1347C}|Hrs.Api\\Hrs.Api.csproj|solutionrelative:hrs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.repository\\migrations\\20260609151313_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|solutionrelative:hrs.api.repository\\migrations\\20260609151313_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83CAE5F6-0FAC-4991-ADF7-0C68E1C1347C}|Hrs.Api\\Hrs.Api.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api\\hrs.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{83CAE5F6-0FAC-4991-ADF7-0C68E1C1347C}|Hrs.Api\\Hrs.Api.csproj|solutionrelative:hrs.api\\hrs.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.repository\\data\\hrsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|solutionrelative:hrs.api.repository\\data\\hrsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.repository\\migrations\\20260609151313_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|solutionrelative:hrs.api.repository\\migrations\\20260609151313_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +51,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Hrs.Api\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Program.cs",
-              "RelativeToolTip": "Hrs.Api\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20260609151313_InitialMigration.Designer.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
+              "RelativeToolTip": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T07:12:31.962Z",
+              "WhenOpened": "2026-06-09T15:17:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260609151313_InitialMigration.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
+              "RelativeToolTip": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:14:06.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Hrs.Api",
-              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Hrs.Api.csproj",
-              "RelativeDocumentMoniker": "Hrs.Api\\Hrs.Api.csproj",
-              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Hrs.Api.csproj",
-              "RelativeToolTip": "Hrs.Api\\Hrs.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-09T06:56:46.98Z",
+              "Title": "HrsDbContext.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Data\\HrsDbContext.cs",
+              "RelativeDocumentMoniker": "Hrs.Api.Repository\\Data\\HrsDbContext.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Data\\HrsDbContext.cs",
+              "RelativeToolTip": "Hrs.Api.Repository\\Data\\HrsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T15:09:20.97Z",
               "EditorCaption": ""
             }
           ]

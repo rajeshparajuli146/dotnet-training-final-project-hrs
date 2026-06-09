@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Hrs.Api.Repository.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,6 +12,10 @@ namespace Hrs.Api.Repository.Data
             : base(options)
         {
         }
-        //public DbSet<Author> Author { get; set; }
+        public DbSet<Hotel> Hotels => Set<Hotel>();
+        public DbSet<Room> Rooms => Set<Room>();
+        public DbSet<User> Users => Set<User>();
+        public DbSet<Booking> Bookings => Set<Booking>();
+
     }
 }

@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "38jh1Cq3l5w=",
+  "dgSpecHash": "VRJMqCOnOR4=",
   "success": true,
   "projectFilePath": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Hrs.Api.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.8\\microsoft.entityframeworkcore.10.0.8.nupkg.sha512",
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.8\\microsoft.entityframeworkcore.abstractions.10.0.8.nupkg.sha512",
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.8\\microsoft.entityframeworkcore.analyzers.10.0.8.nupkg.sha512",
+    "C:\\Users\\reply\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.7\\microsoft.entityframeworkcore.relational.10.0.7.nupkg.sha512",
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.8\\microsoft.extensions.caching.abstractions.10.0.8.nupkg.sha512",
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.8\\microsoft.extensions.caching.memory.10.0.8.nupkg.sha512",
+    "C:\\Users\\reply\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.8\\microsoft.extensions.dependencyinjection.10.0.8.nupkg.sha512",
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
     "C:\\Users\\reply\\.nuget\\packages\\microsoft.extensions.logging\\10.0.8\\microsoft.extensions.logging.10.0.8.nupkg.sha512",
