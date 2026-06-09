@@ -25,7 +25,6 @@ E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\sta
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\staticwebassets.development.json
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\swae.build.ex.cache
-E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.csproj.Up2Date
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.dll
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\refint\Hrs.Api.dll
@@ -160,3 +159,5 @@ E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\bin\Debug\net10.0\run
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.sourcelink.json
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

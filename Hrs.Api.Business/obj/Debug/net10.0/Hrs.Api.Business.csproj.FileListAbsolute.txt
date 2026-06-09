@@ -15,3 +15,4 @@ E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Business\bin\Debug\ne
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Business\bin\Debug\net10.0\Hrs.Api.Shared.pdb
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Business\obj\Debug\net10.0\Hrs.Api.Business.csproj.AssemblyReference.cache
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Business\obj\Debug\net10.0\Hrs.Api..54E68EE4.Up2Date
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Business\obj\Debug\net10.0\Hrs.Api.Business.sourcelink.json

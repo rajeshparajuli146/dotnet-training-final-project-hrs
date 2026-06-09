@@ -750,7 +750,8 @@
       "Hrs.Api.Repository/1.0.0": {
         "dependencies": {
           "Hrs.Api.Shared": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "10.0.8"
+          "Microsoft.EntityFrameworkCore": "10.0.8",
+          "Microsoft.EntityFrameworkCore.Relational": "10.0.7"
         },
         "runtime": {
           "Hrs.Api.Repository.dll": {
