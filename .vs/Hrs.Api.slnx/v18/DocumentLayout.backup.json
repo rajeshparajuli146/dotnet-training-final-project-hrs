@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.repository\\migrations\\20260609151313_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|solutionrelative:hrs.api.repository\\migrations\\20260609151313_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.repository\\data\\hrsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|solutionrelative:hrs.api.repository\\data\\hrsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.repository\\migrations\\20260609151313_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F0A388-AAB8-C583-51CB-A23C2A10CDA5}|Hrs.Api.Repository\\Hrs.Api.Repository.csproj|solutionrelative:hrs.api.repository\\migrations\\20260609151313_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,45 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260609151313_InitialMigration.Designer.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
-              "RelativeDocumentMoniker": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
-              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
-              "RelativeToolTip": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.Designer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T15:17:54.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20260609151313_InitialMigration.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
-              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
-              "RelativeToolTip": "Hrs.Api.Repository\\Migrations\\20260609151313_InitialMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T15:14:06.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HrsDbContext.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Data\\HrsDbContext.cs",
-              "RelativeDocumentMoniker": "Hrs.Api.Repository\\Data\\HrsDbContext.cs",
-              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Repository\\Data\\HrsDbContext.cs",
-              "RelativeToolTip": "Hrs.Api.Repository\\Data\\HrsDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T15:09:20.97Z",
-              "EditorCaption": ""
             }
           ]
         }

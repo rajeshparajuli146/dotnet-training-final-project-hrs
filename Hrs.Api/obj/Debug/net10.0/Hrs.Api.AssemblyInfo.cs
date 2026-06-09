@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hrs.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6203a92d84d8d2553fcbf59ed6cca1f798aa23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c866a39c46701ee27d9a20d43f70f07dfed6912")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hrs.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hrs.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
