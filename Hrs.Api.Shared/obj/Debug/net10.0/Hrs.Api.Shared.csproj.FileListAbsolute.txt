@@ -1,0 +1,11 @@
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\bin\Debug\net10.0\Hrs.Api.Shared.deps.json
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\bin\Debug\net10.0\Hrs.Api.Shared.dll
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\bin\Debug\net10.0\Hrs.Api.Shared.pdb
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\Hrs.Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\Hrs.Api.Shared.AssemblyInfoInputs.cache
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\Hrs.Api.Shared.AssemblyInfo.cs
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\Hrs.Api.Shared.csproj.CoreCompileInputs.cache
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\Hrs.Api.Shared.dll
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\refint\Hrs.Api.Shared.dll
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\Hrs.Api.Shared.pdb
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api.Shared\obj\Debug\net10.0\ref\Hrs.Api.Shared.dll
