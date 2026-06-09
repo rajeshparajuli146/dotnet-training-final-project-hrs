@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hrs.Api.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b12c8e407eebf1047bdf0b7b3ac6c85e802410e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1861eb09ec0cb9224cef799b91f3ab2ff9399b08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hrs.Api.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hrs.Api.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
