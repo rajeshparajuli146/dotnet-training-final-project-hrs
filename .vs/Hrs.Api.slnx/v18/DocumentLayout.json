@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A398F-A90F-3AC4-C472-1F99B6EA5224}|Hrs.Api\\Hrs.Api.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01A398F-A90F-3AC4-C472-1F99B6EA5224}|Hrs.Api\\Hrs.Api.csproj|solutionrelative:hrs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A398F-A90F-3AC4-C472-1F99B6EA5224}|Hrs.Api\\Hrs.Api.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01A398F-A90F-3AC4-C472-1F99B6EA5224}|Hrs.Api\\Hrs.Api.csproj|solutionrelative:hrs.api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A398F-A90F-3AC4-C472-1F99B6EA5224}|Hrs.Api\\Hrs.Api.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01A398F-A90F-3AC4-C472-1F99B6EA5224}|Hrs.Api\\Hrs.Api.csproj|solutionrelative:hrs.api\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869E9670-5C8B-0A07-D52E-912A51C46CC5}|Hrs.Api.Shared\\Hrs.Api.Shared.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.shared\\dtos\\roomdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869E9670-5C8B-0A07-D52E-912A51C46CC5}|Hrs.Api.Shared\\Hrs.Api.Shared.csproj|solutionrelative:hrs.api.shared\\dtos\\roomdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCBB2B81-77C7-81C1-7063-5620A43A07CE}|Hrs.Api.Business\\Hrs.Api.Business.csproj|e:\\visual studio\\dotnetfinalproject\\hrsapi\\hrs.api\\hrs.api.business\\roombusiness\\roombusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCBB2B81-77C7-81C1-7063-5620A43A07CE}|Hrs.Api.Business\\Hrs.Api.Business.csproj|solutionrelative:hrs.api.business\\roombusiness\\roombusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Hrs.Api\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Program.cs",
+              "RelativeToolTip": "Hrs.Api\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:16:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -38,6 +76,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "Hrs.Api\\Controllers\\HotelsController.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "Hrs.Api\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:14:41.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Hrs.Api\\Controllers\\RoomController.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Hrs.Api\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:14:37.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomDtos.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Shared\\Dtos\\RoomDtos.cs",
+              "RelativeDocumentMoniker": "Hrs.Api.Shared\\Dtos\\RoomDtos.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Shared\\Dtos\\RoomDtos.cs",
+              "RelativeToolTip": "Hrs.Api.Shared\\Dtos\\RoomDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:14:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomBusiness.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Business\\RoomBusiness\\RoomBusiness.cs",
+              "RelativeDocumentMoniker": "Hrs.Api.Business\\RoomBusiness\\RoomBusiness.cs",
+              "ToolTip": "E:\\Visual Studio\\DotNetFinalProject\\HrsApi\\Hrs.Api\\Hrs.Api.Business\\RoomBusiness\\RoomBusiness.cs",
+              "RelativeToolTip": "Hrs.Api.Business\\RoomBusiness\\RoomBusiness.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:06:42.036Z",
+              "EditorCaption": ""
             }
           ]
         }
