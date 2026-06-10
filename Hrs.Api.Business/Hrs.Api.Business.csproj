@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Refit" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Hrs.Api.Repository\Hrs.Api.Repository.csproj" />
     <ProjectReference Include="..\Hrs.Api.Shared\Hrs.Api.Shared.csproj" />
   </ItemGroup>

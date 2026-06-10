@@ -231,6 +231,23 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "Refit/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0/Refit.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/Refit.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.0/refit.props": {},
+          "buildTransitive/netstandard2.0/refit.targets": {}
+        }
+      },
       "Hrs.Api.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -646,6 +663,36 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Refit/11.0.1": {
+      "sha512": "vGRw/8rgo86MXGNSz7qYD8zXKFJZbDrl41n9fhFFeUMuFo5KKnpVkKTv7ALDeN52CoGAAxghaB+w9P1NKNaH2g==",
+      "type": "package",
+      "path": "refit/11.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE/LICENSE",
+        "README.md",
+        "analyzers/dotnet/roslyn3.8/cs/InterfaceStubGeneratorV1.dll",
+        "analyzers/dotnet/roslyn4.1/cs/InterfaceStubGeneratorV2.dll",
+        "analyzers/dotnet/roslyn5.0/cs/InterfaceStubGeneratorV3.dll",
+        "build/netstandard2.0/refit.targets",
+        "buildTransitive/netstandard2.0/refit.props",
+        "buildTransitive/netstandard2.0/refit.targets",
+        "lib/net10.0/Refit.dll",
+        "lib/net10.0/Refit.xml",
+        "lib/net462/Refit.dll",
+        "lib/net462/Refit.xml",
+        "lib/net8.0/Refit.dll",
+        "lib/net8.0/Refit.xml",
+        "lib/net9.0/Refit.dll",
+        "lib/net9.0/Refit.xml",
+        "lib/netstandard2.0/Refit.dll",
+        "lib/netstandard2.0/Refit.xml",
+        "logo.png",
+        "refit.11.0.1.nupkg.sha512",
+        "refit.nuspec"
+      ]
+    },
     "Hrs.Api.Repository/1.0.0": {
       "type": "project",
       "path": "../Hrs.Api.Repository/Hrs.Api.Repository.csproj",
@@ -660,7 +707,8 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Hrs.Api.Repository >= 1.0.0",
-      "Hrs.Api.Shared >= 1.0.0"
+      "Hrs.Api.Shared >= 1.0.0",
+      "Refit >= 11.0.1"
     ]
   },
   "packageFolders": {
@@ -721,6 +769,12 @@
       "net10.0": {
         "framework": "net10.0",
         "targetAlias": "net10.0",
+        "dependencies": {
+          "Refit": {
+            "target": "Package",
+            "version": "[11.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

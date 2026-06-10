@@ -142,7 +142,6 @@ E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.AssemblyInfoInputs.cache
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.AssemblyInfo.cs
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.csproj.CoreCompileInputs.cache
-E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.MvcApplicationPartsAssemblyInfo.cs
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.MvcApplicationPartsAssemblyInfo.cache
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.sourcelink.json
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
@@ -161,3 +160,4 @@ E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\ref
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.pdb
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\Hrs.Api.genruntimeconfig.cache
 E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\obj\Debug\net10.0\ref\Hrs.Api.dll
+E:\Visual Studio\DotNetFinalProject\HrsApi\Hrs.Api\Hrs.Api\bin\Debug\net10.0\Refit.dll
