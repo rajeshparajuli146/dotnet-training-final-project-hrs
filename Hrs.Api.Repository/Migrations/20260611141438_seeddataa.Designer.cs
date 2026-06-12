@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Hrs.Api.Repository.Migrations
 {
     [DbContext(typeof(HrsDbContext))]
-    [Migration("20260609151313_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20260611141438_seeddataa")]
+    partial class seeddataa
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -74,6 +74,22 @@ namespace Hrs.Api.Repository.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Hotels");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Location = "Kathmandu",
+                            Name = "Grand Plaza",
+                            StarRating = 5
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Location = "Pokhara",
+                            Name = "Mountain View Inn",
+                            StarRating = 4
+                        });
                 });
 
             modelBuilder.Entity("Hrs.Api.Repository.Models.Room", b =>
@@ -104,6 +120,53 @@ namespace Hrs.Api.Repository.Migrations
                     b.HasIndex("HotelId");
 
                     b.ToTable("Rooms");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            HotelId = 1,
+                            IsAvailable = true,
+                            PricePerNight = 50m,
+                            RoomNumber = "101",
+                            Type = "Single"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            HotelId = 1,
+                            IsAvailable = true,
+                            PricePerNight = 90m,
+                            RoomNumber = "102",
+                            Type = "Double"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            HotelId = 1,
+                            IsAvailable = true,
+                            PricePerNight = 200m,
+                            RoomNumber = "201",
+                            Type = "Suite"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            HotelId = 2,
+                            IsAvailable = true,
+                            PricePerNight = 40m,
+                            RoomNumber = "101",
+                            Type = "Single"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            HotelId = 2,
+                            IsAvailable = true,
+                            PricePerNight = 75m,
+                            RoomNumber = "102",
+                            Type = "Double"
+                        });
                 });
 
             modelBuilder.Entity("Hrs.Api.Repository.Models.User", b =>
@@ -131,6 +194,16 @@ namespace Hrs.Api.Repository.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Email = "admin@hotel.com",
+                            Name = "Admin",
+                            PasswordHash = "Admin@123",
+                            Role = "Admin"
+                        });
                 });
 
             modelBuilder.Entity("Hrs.Api.Repository.Models.Booking", b =>
